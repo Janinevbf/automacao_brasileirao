@@ -35,5 +35,10 @@ O script executa os seguintes passos de automação:
 ### Pré-requisitos
 Você precisará do Python instalado e das bibliotecas necessárias. Para instalá-las de uma vez só, execute no seu terminal:
 
-```bash
+
 pip install requests pandas beautifulsoup4 tabulate
+
+## Executando o Script
+
+
+python brasileirao.py
